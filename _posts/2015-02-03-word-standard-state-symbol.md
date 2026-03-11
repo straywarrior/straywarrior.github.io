@@ -17,7 +17,7 @@ categories:
 
 保存之后回到输入界面，输入一个y，选中y，将Style改为User 1，这个y就变成了⊖（当然，这样修改字体的方法也可以用在普通文本中，只是因为⊖一般和一串公式同时出现，所以这里以MathType中的方法为例）。设置界面及最终效果如图所示：
 
-\[caption id="attachment\_50" align="aligncenter" width="300"\][![在MathType中输入⊖的方法](images/ma1-300x207.png)](http://blog.straywarrior.com/wp-content/uploads/2015/02/ma1.png) 在MathType中输入⊖的方法\[/caption\]
+\[caption id="attachment\_50" align="aligncenter" width="300"\][![在MathType中输入⊖的方法](/assets/images/ma1-300x207.png)](http://blog.straywarrior.com/wp-content/uploads/2015/02/ma1.png) 在MathType中输入⊖的方法\[/caption\]
 
 二、Word中的快速输入方法
 
@@ -27,6 +27,6 @@ categories:
 
 回到Word输入界面，键入\\ominus，回车，一个标准态符号就出现了，设置界面及最终效果如图所示：
 
-\[caption id="attachment\_51" align="aligncenter" width="300"\][![Word自动更正设置，打开“数学符号自动更正”](images/ma2-300x242.png)](http://blog.straywarrior.com/wp-content/uploads/2015/02/ma2.png) Word自动更正设置，打开“数学符号自动更正”\[/caption\]
+\[caption id="attachment\_51" align="aligncenter" width="300"\][![Word自动更正设置，打开“数学符号自动更正”](/assets/images/ma2-300x242.png)](http://blog.straywarrior.com/wp-content/uploads/2015/02/ma2.png) Word自动更正设置，打开“数学符号自动更正”\[/caption\]
 
-\[caption id="attachment\_52" align="aligncenter" width="300"\][![自动更正法的⊖输入效果](images/ma4-300x110.png)](http://blog.straywarrior.com/wp-content/uploads/2015/02/ma4.png) 自动更正法的⊖输入效果\[/caption\]
+\[caption id="attachment\_52" align="aligncenter" width="300"\][![自动更正法的⊖输入效果](/assets/images/ma4-300x110.png)](http://blog.straywarrior.com/wp-content/uploads/2015/02/ma4.png) 自动更正法的⊖输入效果\[/caption\]
