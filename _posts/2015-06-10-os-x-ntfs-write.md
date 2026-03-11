@@ -42,6 +42,6 @@ open /Volumes
 
 2015-12-31更新：
 
-OS X系统默认不开启NTFS的写入权限，大概一是因为NTFS属于微软的商业机密，二是因为OS X的文件系统和NTFS差别较大，兼容性和稳定性都有问题。在OS X和Windows上同时使用同一个NTFS磁盘最容易遇到的问题大概就是文件的安全权限不稳定，比如该[日志](http://blog.straywarrior.com/139.html "使用批处理解决OS X系统修改文件后在Windows中无法访问的问题")提到的问题。
+OS X系统默认不开启NTFS的写入权限，大概一是因为NTFS属于微软的商业机密，二是因为OS X的文件系统和NTFS差别较大，兼容性和稳定性都有问题。在OS X和Windows上同时使用同一个NTFS磁盘最容易遇到的问题大概就是文件的安全权限不稳定，比如该[日志](/posts/getaccess-os-x-created-files-in-windows/ "使用批处理解决OS X系统修改文件后在Windows中无法访问的问题")提到的问题。
 
 因此，我现在不太使用OS X写NTFS磁盘，对于一些经常需要在两个系统之间交换的数据使用一个FAT32格式的磁盘进行同步。

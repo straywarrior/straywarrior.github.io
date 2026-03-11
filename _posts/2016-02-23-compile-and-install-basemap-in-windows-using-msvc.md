@@ -35,7 +35,7 @@ Download basemap-1.0.7.tar.gz (See [SourceForge.net](https://sourceforge.net/pro
 
 ##### Pre-build Preparation
 
-\* Check your Python's distutils component to make sure the msvc9compiler.py is correct. (See Reference [Link Error When Compiling and Installing Python Package in Windows](http://blog.straywarrior.com/170.html) \* Find the Line 79 of basemap-1.0.7\\setup.py . Make sure that geos\_c  is in libraries  (It's missed in basemap-1.0.7 and you will meet Link Error when building \_geoslib).
+\* Check your Python's distutils component to make sure the msvc9compiler.py is correct. (See Reference [Link Error When Compiling and Installing Python Package in Windows](/posts/link-error-when-compiling-and-installing-python-package-in-windows) \* Find the Line 79 of basemap-1.0.7\\setup.py . Make sure that geos\_c  is in libraries  (It's missed in basemap-1.0.7 and you will meet Link Error when building \_geoslib).
 
 ```
     extensions.append(Extension("_geoslib",['src/_geoslib.c'],
